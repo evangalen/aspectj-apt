@@ -15,14 +15,14 @@
    <extension
          point="org.eclipse.jdt.core.annotationProcessorManager">
       <annotationProcessorManager
-            class="org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager"
+            class="org.aspectj.org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager"
             id="org.eclipse.jdt.apt.pluggable.core.annotationProcessorManager">
       </annotationProcessorManager>
    </extension>
    <extension
          point="org.eclipse.jdt.core.compilationParticipant">
       <compilationParticipant
-            class="org.eclipse.jdt.internal.apt.pluggable.core.Apt6CompilationParticipant"
+            class="org.aspectj.org.eclipse.jdt.internal.apt.pluggable.core.Apt6CompilationParticipant"
             id="org.eclipse.jdt.apt.pluggable.core.compilationParticipant"
             requiredSourceLevel="1.6">
          <managedMarker
