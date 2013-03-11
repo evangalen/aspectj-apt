@@ -1,0 +1,7 @@
+
+/org.eclipse.jdt/org.eclipse.jdt.compiler.apt/target
+/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core/target
+/org.eclipse.jdt/org.eclipse.jdt.apt.core/target
+/org.eclipse.jdt/org.eclipse.jdt.apt.core/bin
+/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core/bin
+/org.eclipse.jdt/org.eclipse.jdt.compiler.apt/bin
