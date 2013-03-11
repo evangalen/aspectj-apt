@@ -11,7 +11,7 @@
     <version>v_B79_R37x</version>
   </parent>
 
-  <artifactId>org.eclipse.jdt.compiler.apt</artifactId>
+  <artifactId>org.aspectj.org.eclipse.jdt.compiler.apt</artifactId>
   <version>1.0.400.qualifier</version>
 
   <packaging>eclipse-plugin</packaging>

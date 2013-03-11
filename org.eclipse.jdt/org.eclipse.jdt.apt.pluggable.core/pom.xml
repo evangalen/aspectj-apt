@@ -11,7 +11,7 @@
     <version>v_B79_R37x</version>
   </parent>
 
-  <artifactId>org.eclipse.jdt.apt.pluggable.core</artifactId>
+  <artifactId>org.aspectj.org.eclipse.jdt.apt.pluggable.core</artifactId>
   <version>1.0.400.qualifier</version>
 
   <packaging>eclipse-plugin</packaging>
